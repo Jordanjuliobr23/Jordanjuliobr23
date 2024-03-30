@@ -9,3 +9,8 @@ Email: Jordanjulio0023@gmail.com
 - ⚡Iniciei minha carreira na programação em março de 2021 ao iniciar com o curso de Python do professor Gustavo Guanabara.
 - ⭐ Sou certificado em 3 cursos de Python com 40 horas cada.
 - 🚀 Estou colcando cada exercício que estou realizando ou realizei nos meus repositórios.
+
+<div>
+<a href="https://instagram.com/Jordanjuliofrancelino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="mailto:jordan0023@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
