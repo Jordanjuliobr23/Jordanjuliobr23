@@ -1,40 +1,71 @@
-<h2 align="left">HELLO, WORLD!</h2>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Jordan Júlio | Portfólio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #0d1117;
+      color: #c9d1d9;
+      margin: 0;
+      padding: 20px;
+    }
+    h1, h2 {
+      color: #58a6ff;
+    }
+    a {
+      color: #58a6ff;
+      text-decoration: none;
+    }
+    .badge {
+      background-color: #21262d;
+      border-radius: 6px;
+      padding: 5px 10px;
+      margin-right: 5px;
+      display: inline-block;
+    }
+    .section {
+      margin-bottom: 30px;
+    }
+  </style>
+</head>
+<body>
+  <h1>👋 Olá, eu sou o Jordan Júlio</h1>
+  <p>💻 Estudante de Redes de Computadores no <strong>IFRN</strong></p>
+  <p>📍 Parnamirim, RN - Brasil</p>
+  <p>🧠 Apaixonado por programação com <strong>Python</strong> e redes de computadores.</p>
 
-###
+  <div class="section">
+    <h2>🔧 Tecnologias</h2>
+    <span class="badge">Python</span>
+    <span class="badge">HTML5</span>
+    <span class="badge">CSS3</span>
+    <span class="badge">Git & GitHub</span>
+    <span class="badge">Redes</span>
+  </div>
 
-<p align="left">My name is Jordan!<br>I'm 19y old<br>I'm from Parnamirim in Rio Grande do Norte - Brazil<br>i'm Study of Course Computer Networks - IFRN</p>
+  <div class="section">
+    <h2>📌 Projetos em Destaque</h2>
+    <ul>
+      <li><a href="https://github.com/Jordanjuliobr23/Python-Exercecies-" target="_blank">Python Exercises</a> - Exercícios práticos com Python.</li>
+      <li><a href="https://github.com/Jordanjuliobr23/HTML-5" target="_blank">HTML5</a> - Desafios de HTML e CSS com foco no cotidiano.</li>
+    </ul>
+  </div>
 
-###
+  <div class="section">
+    <h2>📈 Estatísticas</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=Jordanjuliobr23&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </div>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-</div>
+  <div class="section">
+    <h2>📬 Contato</h2>
+    <p>Email: jordan@email.com</p>
+    <p><a href="https://www.instagram.com/jordanjuliofrancelino" target="_blank">Instagram</a></p>
+  </div>
+</body>
+</html>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jordanjuliobr23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jordanjuliobr23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="jordanbr17" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/jordanjuliofrancelino/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="Jordanjulio325@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
 
 
