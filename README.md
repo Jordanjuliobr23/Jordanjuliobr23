@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/redhat.svg" alt="Red Hat" width="40" height="40"/>
+   <img src="https://img.icons8.com/color/48/red-hat.png" alt="Red Hat" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"height="40"/>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
