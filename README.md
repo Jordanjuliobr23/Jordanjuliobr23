@@ -19,7 +19,7 @@
     <h2>📌 Featured Projects</h2>
     <ul>
       <li><a href= "https://github.com/Jordanjuliobr23/Distributed-mining-system.git" target="_blank"> Distributed Minining System with Telegram Bot 🪙</li>
-      <li> href= "https://github.com/Jordanjuliobr23/Distributed-mining-system.git" target="_blank"> Distributed Minining System with Telegram Bot 🪙</li>
+      <li><a href= "https://github.com/Jordanjuliobr23/Racket-Pong.git" target="_blank"> Pong Game with Pygame </li>
     </ul>
   </div>
 
