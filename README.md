@@ -1,36 +1,5 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Jordan Júlio | Portfólio</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #0d1117;
-      color: #c9d1d9;
-      margin: 0;
-      padding: 20px;
-    }
-    h1, h2 {
-      color: #58a6ff;
-    }
-    a {
-      color: #58a6ff;
-      text-decoration: none;
-    }
-    .badge {
-      background-color: #21262d;
-      border-radius: 6px;
-      padding: 5px 10px;
-      margin-right: 5px;
-      display: inline-block;
-    }
-    .section {
-      margin-bottom: 30px;
-    }
-  </style>
-</head>
 <body>
   <h1>👋 Olá, eu sou o Jordan Júlio</h1>
   <p>💻 Estudante de Redes de Computadores no <strong>IFRN</strong></p>
