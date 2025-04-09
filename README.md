@@ -18,7 +18,7 @@
   <div class="section">
     <h2>📌 Featured Projects</h2>
     <ul>
-      <li><a href= "https://github.com/Jordanjuliobr23/Distributed-mining-system.git" target="_blank"> Distributed Minining System with Telegram Bot</li>
+      <li><a href= "https://github.com/Jordanjuliobr23/Distributed-mining-system.git" target="_blank"> Distributed Minining System with Telegram Bot 🪙</li>
       <li>.</li>
     </ul>
   </div>
