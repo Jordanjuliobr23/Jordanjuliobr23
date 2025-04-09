@@ -30,8 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cisco.svg" alt="Cisco" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cisco.svg" alt="Cisco" width="40" height="40" style="filter:invert(25%) sepia(97%) saturate(1661%) hue-rotate(178deg) brightness(98%) contrast(92%);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" 
 height="40"/>
 <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/>
