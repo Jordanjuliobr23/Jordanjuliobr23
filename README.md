@@ -34,7 +34,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" alt="VS Code" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cisco.svg" alt="Cisco" width="40" height="40"/>
-<img src="https://img.icons8.com/ios-filled/50/4e91fd/wireshark.png" alt="Wireshark" width="40" height="40"/>
+
 </p>
 
   <div class="section">
