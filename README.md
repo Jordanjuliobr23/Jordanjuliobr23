@@ -20,7 +20,8 @@
     <ul>
       <li><a href = "https://github.com/Jordanjuliobr23/Distributed-mining-system.git" target="_blank"> Distributed Minining System with Telegram Bot 🪙</li>
       <li><a href = "https://github.com/Jordanjuliobr23/Racket-Pong.git" target="_blank"> Pong Game with Pygame 🎾 </li>
-      <li><a href ="https://github.com/Jordanjuliobr23/Archives-Server-Tcp-Udp.git"> Server and Client programs with Tcp and Udp 📁</li>
+      <li><a href = "https://github.com/Jordanjuliobr23/Archives-Server-Tcp-Udp.git"> Server and Client programs with Tcp and Udp 📁</li>
+      <li><a href = "https://github.com/Jordanjuliobr23/Telegram-Chat-.git" 📨</li>
     </ul>
   </div>
 
