@@ -47,7 +47,7 @@
   </div>
 
   <div class="section">
-    <h2> 🏅 My completed courses 
+    <h2> 
     <ul> 
       <li><a href = "https://github.com/Jordanjuliobr23/Certificados.git" target="_blank"> 🏅 My completed courses  </li>
     </ul>
