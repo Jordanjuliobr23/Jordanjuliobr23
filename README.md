@@ -47,6 +47,9 @@
   </div>
 
   <div class="section">
+    <h2> 🏅 My completed courses 
+      <li><a href= "https://github.com/Jordanjuliobr23/Certificados.git" target="_blank"></li>
+  <div class="section">
     <h2>📬 My contacts: </h2>
     <p>Email: jordanjulio0023@email.com</p>
     <p><a href="https://www.instagram.com/jordanjuliofrancelino" target="_blank">Instagram</a></p>
