@@ -48,7 +48,11 @@
 
   <div class="section">
     <h2> 🏅 My completed courses 
+    <ul> 
       <li><a href= "https://github.com/Jordanjuliobr23/Certificados.git" target="_blank"> </li>
+    </ul>
+  </div>
+  
   <div class="section">
     <h2>📬 My contacts: </h2>
     <p>Email: jordanjulio0023@email.com</p>
