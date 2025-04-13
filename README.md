@@ -58,7 +58,7 @@
     <h2>📬 My contacts: </h2>
     <p>📩 Email: jordanjulio0023@email.com</p>
     <p><a href="https://www.instagram.com/jordanjuliofrancelino" target="_blank"> 📷 Instagram</a></p>
-    <p><a href="https://www.linkedin.com/in/jordanj%C3%BAlio/" target="_blank"> 📨 Linkedin </a></p>
+    <p><a href="https://www.linkedin.com/in/jordanj%C3%BAlio/" target="_blank"> 🖳 Linkedin </a></p>
   </div>
 </body>
 </html>
