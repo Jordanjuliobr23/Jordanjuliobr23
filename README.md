@@ -57,6 +57,7 @@
   <div class="section">
     <h2>📬 My contacts: </h2>
     <p>📩 Email: jordanjulio0023@email.com</p>
+    <p>📥 Telegram: +55 84 98748 0727</p>
     <p><a href="https://www.instagram.com/jordanjuliofrancelino" target="_blank"> 📷 Instagram</a></p>
     <p><a href="https://www.linkedin.com/in/jordanj%C3%BAlio/" target="_blank"> 🖳 Linkedin </a></p>
   </div>
