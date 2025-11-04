@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <body>
   <h1>👋 Hello, I'm Jordan Júlio</h1>
-  <p>💻 Computer Networks student of 3th semester at <strong>IFRN</strong></p>
+  <p>💻 Computer Networks student of 4th semester at <strong>IFRN</strong></p>
   <p>📍 Parnamirim, RN - Brasil</p>
   <p>🧠 Passionate about programming with <strong>Python</strong> and computer networking.</p>
 
