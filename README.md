@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="Ubuntu" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/autocad.png" alt="AutoCAD" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/cisco.png" alt="Cisco" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/latex.png" alt="LaTeX" width="40" height="40"/>
 
 
 
