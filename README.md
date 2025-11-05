@@ -38,6 +38,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"height="40"/>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/autocad.png" alt="AutoCAD" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/cisco-logo.png" alt="Cisco" width="40" height="40"/>
+
+
+
 
   </p>
 
