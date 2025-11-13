@@ -6,14 +6,7 @@
   <p>📍 Parnamirim, RN - Brasil</p>
   <p>🧠 Passionate about programming with <strong>Python</strong> and computer networking.</p>
 
-  <div class="section">
-    <h2>🔧 Tecnologies of my projects and exercicies: </h2>
-    <span class="badge">Python</span>
-    <span class="badge">HTML5</span>
-    <span class="badge">CSS3</span>
-    <span class="badge">Git & GitHub</span>
-    <span class="badge">Networking</span>
-  </div>
+
 
   <div class="section">
     <h2>📌 Featured Projects</h2>
