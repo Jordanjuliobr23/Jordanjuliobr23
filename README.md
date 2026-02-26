@@ -11,6 +11,7 @@
   <div class="section">
     <h2>📌 Featured Projects</h2>
     <ul>
+      <li><a href="https://github.com/Jordanjuliobr23/Automated-Call-System"> 📲🔳 🏷️SCAPS - Sistema de Chamadas Automáticas para o SUAP</li>
       <li><a href = "https://github.com/Jordanjuliobr23/Distributed-mining-system.git" target="_blank"> Distributed Minining System with Telegram Bot 🪙</li>
       <li><a href = "https://github.com/Jordanjuliobr23/Racket-Pong.git" target="_blank"> Pong Game with Pygame 🎾 </li>
       <li><a href = "https://github.com/Jordanjuliobr23/Archives-Server-Tcp-Udp.git"> Server and Client programs with Tcp and Udp 📁</li>
